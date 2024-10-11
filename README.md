@@ -10,7 +10,6 @@
   - Arduino
   - ESP32
   - PIC
-  - STM32
   - MSP430
 - 🖥️ Tools I use:
   - Arduino IDE
