@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kaik Paixão!
 
 ### 🛠️ About Me
-- 🎓 **Technician in Electronics** from **CEFET-MG**
+- 🎓 **Electronic Technician** from **CEFET-MG**
 - 🎓 Currently studying **Electrical Engineering** at **PUC-MG**
 - 🔧 Specialized in **Hardware Design** and **Firmware Development**
 
@@ -17,7 +17,7 @@
   - MPLAB
   - IAR Systems
   - **Altium Designer**
-  - **FluxIA**
+  - **FluxAI**
   - **Proteus** & **Ares**
   - **PSIM**
   - **MultiSim**
@@ -37,4 +37,3 @@ I love blending technology and creativity to bring cool ideas to life. Outside o
 
 ---
 
-"KaikPaixaoOliveira/KaikPaixaoOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile."
